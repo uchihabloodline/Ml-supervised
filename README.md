@@ -3,8 +3,8 @@
 
 <h2>steps to run the code</h2>
 <ul> 
-clone the repository.
-extract the files to your favourite location.
-run the <strong>titanic.py</strong> file with command <strong>python titanic.py</strong>.
+<ul>clone the repository.
+<ul>extract the files to your favourite location.
+<ul>Go to destination folder and run the <strong>titanic.py</strong> file with command <strong>python titanic.py</strong>.
 
 </ul>
