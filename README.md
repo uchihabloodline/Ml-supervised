@@ -1,6 +1,6 @@
 <h1> Algorithms included in the repository:</h1>
 
-<h2> Titanic kaggle problem </h2>
+<h2> ->Titanic kaggle problem </h2>
 <p> Above is the solution to the kaggle's titanic survivor problem using <strong>scikit learn random forest algorithm</strong>.</p>
 
 <h2>steps to run the code</h2>
@@ -11,4 +11,4 @@
 
 </ul>
 
-<h2> Logistic regression[Unregularised]</h2>
+<h2> ->Logistic regression[Unregularised]</h2>
