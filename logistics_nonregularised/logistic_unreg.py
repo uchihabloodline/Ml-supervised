@@ -83,4 +83,4 @@ theta_min = np.matrix(result[0])
 predictions = predict(theta_min, X)
 correct = [1 if ((a == 1 and b == 1) or (a == 0 and b == 0)) else 0 for (a, b) in zip(predictions, y)]
 accuracy = (sum(map(int, correct)) % len(correct))
-print ('accuracy = {0}%'.format(accuracy))
+print ('accuracy = {0}%'.format(accuracy))   #current accuracy --- 89% on training data babes!! actual testing predictions will surely decrease..
